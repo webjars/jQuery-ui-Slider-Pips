@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jQuery-ui-Slider-Pips</artifactId>
-    <version>1.11.4</version>
+    <version>1.11.4-SNAPSHOT</version>
     <name>jQuery UI Slider Pips</name>
     <description>WebJar for jQuery UI Slider Pips</description>
     <url>http://webjars.org</url>
